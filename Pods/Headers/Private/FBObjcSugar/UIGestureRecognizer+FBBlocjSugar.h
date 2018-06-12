@@ -1,0 +1,1 @@
+../../../FBObjcSugar/FBObjcSugar/Classes/FBQuickFoundation/UIGestureRecognizer+FBBlocjSugar.h
